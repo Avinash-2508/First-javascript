@@ -22,7 +22,7 @@ else if(randomNumber1 === 5) {
 
 var randomNumber2 = Math.round(Math.random()*6)
 if(randomNumber2 ===0){
-    document.querySelector(".img2").setAttribute("src","./images/dice.png");
+    document.querySelector(".img2").setAttribute("src","./images/dice1.png");
 }
 else if(randomNumber2 === 1) {
     document.querySelector(".img2").setAttribute("src","./images/dice2.png")
