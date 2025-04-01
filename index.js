@@ -2,7 +2,7 @@ var randomNumber1 = Math.round(Math.random()*6)
 if(randomNumber1 ===0){
     document.querySelector(".img1").setAttribute("src","./images/dice1.png");
 }
-else if(randomNumber1 === 1) {
+else if(randomNumber1 === ) {
     document.querySelector(".img1").setAttribute("src","./images/dice2.png")
 }
 else if(randomNumber1 === 2) {
