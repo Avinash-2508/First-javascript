@@ -30,7 +30,7 @@ else if(randomNumber2 === 1) {
 else if(randomNumber2 === 2) {
     document.querySelector(".img2").setAttribute("src","./images/dice3.png")
 }
-else if(randomNumber2 === ) {
+else if(randomNumber2 === 3) {
     document.querySelector(".img2").setAttribute("src","./images/dice4.png")
 }
 else if(randomNumber2 === 4) {
